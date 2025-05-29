@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0748A6472DE8B1470050D51F /* APIKeys.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0748A6462DE8B13F0050D51F /* APIKeys.swift */; };
 		5060B9062D827079000CCB51 /* Supabase in Frameworks */ = {isa = PBXBuildFile; productRef = 5060B9052D827079000CCB51 /* Supabase */; };
 		50A4FA3C2D909F7200C89441 /* GoogleGenerativeAI in Frameworks */ = {isa = PBXBuildFile; productRef = 50A4FA3B2D909F7200C89441 /* GoogleGenerativeAI */; };
 		50B538DF2DAC2DBC00A2999A /* Auth in Frameworks */ = {isa = PBXBuildFile; productRef = 50B538DE2DAC2DBC00A2999A /* Auth */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0748A6462DE8B13F0050D51F /* APIKeys.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIKeys.swift; sourceTree = "<group>"; };
 		507C569A2D8254DC00CA1FD5 /* SpendSmart.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SpendSmart.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -62,6 +64,7 @@
 		507C56912D8254DC00CA1FD5 = {
 			isa = PBXGroup;
 			children = (
+				0748A6462DE8B13F0050D51F /* APIKeys.swift */,
 				507C569C2D8254DC00CA1FD5 /* SpendSmart */,
 				507C569B2D8254DC00CA1FD5 /* Products */,
 			);
@@ -160,6 +163,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0748A6472DE8B1470050D51F /* APIKeys.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

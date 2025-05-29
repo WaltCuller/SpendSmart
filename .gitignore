@@ -81,3 +81,6 @@ SpendSmart/APIKeys.swift
 # Local configuration files
 *.local.json
 local.settings.json
+
+
+APIKeys.swift
